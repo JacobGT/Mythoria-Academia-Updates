@@ -1,0 +1,15 @@
+{
+  "apk": {
+    "version": "2.1.0",
+    "versionCode": 3,
+    "minVersionCode": 3,
+    "page": "https://github.com/JacobGT/Mythoria-Academia-Updates/releases/latest"
+  },
+  "web": {
+    "version": "2.1.0",
+    "minNative": 3,
+    "url": "https://github.com/JacobGT/Mythoria-Academia-Updates/releases/download/v2.1.0/mythoria-web-2.1.0.zip",
+    "size": 15663410,
+    "notes": "Juego en horizontal, botones y textos con mejor espaciado, combate en vista lateral y actualizaciones dentro del juego. Instala este APK una vez; las próximas versiones de contenido se descargan desde el propio juego."
+  }
+}
