@@ -1,15 +1,15 @@
 {
   "apk": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "versionCode": 4,
     "minVersionCode": 3,
     "page": "https://github.com/JacobGT/Mythoria-Academia-Updates/releases/latest"
   },
   "web": {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "minNative": 3,
-    "url": "https://github.com/JacobGT/Mythoria-Academia-Updates/releases/download/v3.0.0/mythoria-web-3.0.0.zip",
-    "size": 15680491,
-    "notes": "3.0: ¡ahora los monstruos son los protagonistas! Cría, alimenta, juega, entrena, cruza y evoluciona a tus monstruos; combates 3 contra 3 con Órdenes de domador; huerto, nido y dojo; torneos de licencia; tutorial y pantalla de título; español e inglés. Empieza una partida nueva. / 3.0: monsters take center stage! Raise, feed, play with, train, breed and evolve your monsters; 3-vs-3 battles with tamer Orders; garden, nest and dojo; license tournaments; tutorial and title screen; Spanish and English. Starts a new save."
+    "url": "https://github.com/JacobGT/Mythoria-Academia-Updates/releases/download/v3.1.0/mythoria-web-3.1.0.zip",
+    "size": 15687686,
+    "notes": "3.1: isla en 3D con tus monstruos paseando, combates con más efectos y animaciones al cuidar a tus monstruos. / 3D island with your monsters roaming, flashier battles and care animations."
   }
 }
