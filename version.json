@@ -1,15 +1,9 @@
 {
-  "apk": {
-    "version": "3.2.1",
-    "versionCode": 6,
-    "minVersionCode": 3,
-    "page": "https://gamecenter.jacobfloresgt.com/#com.mythoria.academia"
-  },
   "web": {
-    "version": "3.2.1",
+    "version": "3.3.0",
     "minNative": 3,
-    "url": "https://github.com/JacobGT/Mythoria-Academia-Updates/releases/download/v3.2.1/mythoria-web-3.2.1.zip",
-    "size": 47262607,
-    "notes": "3.2.1: icono y pantalla de carga nuevos, combate e isla bien encuadrados en cualquier pantalla. / 3.2.1: new icon and loading screen, battle and island framed right on any screen."
+    "url": "https://github.com/JacobGT/Mythoria-Academia-Updates/releases/download/v3.3.0/mythoria-web-3.3.0.zip",
+    "size": 47263188,
+    "notes": "3.3.0: los avisos de versión nueva llegan desde Game Center. / 3.3.0: new-version notices now come from Game Center."
   }
 }
