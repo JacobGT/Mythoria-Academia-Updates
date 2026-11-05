@@ -1,15 +1,15 @@
 {
   "apk": {
-    "version": "3.1.0",
-    "versionCode": 4,
+    "version": "3.2.0",
+    "versionCode": 5,
     "minVersionCode": 3,
     "page": "https://github.com/JacobGT/Mythoria-Academia-Updates/releases/latest"
   },
   "web": {
-    "version": "3.1.0",
+    "version": "3.2.0",
     "minNative": 3,
-    "url": "https://github.com/JacobGT/Mythoria-Academia-Updates/releases/download/v3.1.0/mythoria-web-3.1.0.zip",
-    "size": 15687686,
-    "notes": "3.1: isla en 3D con tus monstruos paseando, combates con más efectos y animaciones al cuidar a tus monstruos. / 3D island with your monsters roaming, flashier battles and care animations."
+    "url": "https://github.com/JacobGT/Mythoria-Academia-Updates/releases/download/v3.2.0/mythoria-web-3.2.0.zip",
+    "size": 47261942,
+    "notes": "3.2: arte nuevo completo (60 monstruos en 3D, escenarios pintados, música de cada isla y gritos de los monstruos) y más fluidez en la isla. / 3.2: full new art (60 3D monsters, painted arenas, music for each island and monster cries) and a smoother island."
   }
 }
