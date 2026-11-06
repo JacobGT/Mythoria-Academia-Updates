@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "3.4.0",
+    "version": "3.4.1",
     "minNative": 3,
-    "url": "https://github.com/JacobGT/Mythoria-Academia-Updates/releases/download/v3.4.0/mythoria-web-3.4.0.zip",
-    "size": 56245157,
-    "notes": "3.4.0: nueva estética oscura y épica: isla nocturna, Academia gótica, Chispa renovado y arena volcánica de la Isla Brasa. / 3.4.0: new dark, epic look: night island, gothic Academy, reworked Chispa line and the volcanic Ember Isle arena."
+    "url": "https://github.com/JacobGT/Mythoria-Academia-Updates/releases/download/v3.4.1/mythoria-web-3.4.1.zip",
+    "size": 56245287,
+    "notes": "3.4.1: pulido de la estética oscura: losas de piedra en la isla, escenarios antiguos atenuados y destellos de golpe más sobrios. / 3.4.1: dark-look polish: stone slabs on the island, older backdrops toned down and subtler hit flashes."
   }
 }
