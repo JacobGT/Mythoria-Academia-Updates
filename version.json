@@ -1,9 +1,9 @@
 {
   "web": {
-    "version": "3.3.0",
+    "version": "3.3.1",
     "minNative": 3,
-    "url": "https://github.com/JacobGT/Mythoria-Academia-Updates/releases/download/v3.3.0/mythoria-web-3.3.0.zip",
-    "size": 47263188,
-    "notes": "3.3.0: los avisos de versión nueva llegan desde Game Center. / 3.3.0: new-version notices now come from Game Center."
+    "url": "https://github.com/JacobGT/Mythoria-Academia-Updates/releases/download/v3.3.1/mythoria-web-3.3.1.zip",
+    "size": 47264926,
+    "notes": "3.3.1: isla con terreno natural, luz de atardecer y bruma; en combate el escenario se ve entero, sin cortes ni halos. / 3.3.1: natural island terrain, sunset light and mist; battle backdrops show in full, with no seams or halos."
   }
 }
